@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 20 year-old Computer Engineering major at Purdue University!
+- Interested in computer architecture, operating systems, and most of all: space!
+- Currently working on a custom RTOS for the Cortex-M7 MCU
+
 <!--
 **CBL17/CBL17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
