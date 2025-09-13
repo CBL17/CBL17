@@ -2,7 +2,7 @@
 
 - 21 year-old Computer Engineering major at Purdue University!
 - Interested in computer architecture, operating systems, and compilers!
-- Currently working on a YAML parser using Zig!
+- Currently working on a TDMS parser using Zig!
 
 <!--
 **CBL17/CBL17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
